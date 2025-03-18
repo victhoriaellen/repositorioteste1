@@ -1,6 +1,6 @@
 Faculdade uniesp 
-curso ciencia da computação 
-diciplina tipocos essencias em programação 
+curso ciencias da computação 
+diciplina introdução a rpogramaçaõ
 nome: victhoria 
 
 resposta da lista de exercisio
@@ -9,4 +9,10 @@ questãon1
 
 queatão 2
 
-queatão 3
+queatão 4
+
+questão 5
+
+questão 6
+
+questão 10
